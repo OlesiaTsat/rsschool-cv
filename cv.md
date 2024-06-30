@@ -17,6 +17,6 @@ My purpose is to learn coding. I have no working oppinion in coding but have hug
 - Ukrainian
 - English
 
-### Code
+### Coding
 
-[Link] ()
+[Link](https://github.com/OlesiaTsat/weather-app.git)
